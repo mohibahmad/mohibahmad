@@ -20,8 +20,6 @@ I build modern, production-focused Flutter applications with clean UI, solid arc
 - 🗣️ AI Language Learning App
 - 🍳 AI Recipe & Cooking Assistant
 - 💰 AI Expense Manager
-- 👕 Virtual Try-On App
-- 🏥 Clinic Management & Booking App
 - 👥 HR Management System
 
 ## 🌱 Currently Improving
